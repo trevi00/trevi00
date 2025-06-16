@@ -1,11 +1,7 @@
-### Hi there 👋
-
-I'm [Your Name], a [Your Role] based in [Your Location].
+[GyeongSu Kim]
 
 #### Currently
-- 🔭 Working on [Current Project]
-- 🌱 Learning [What you're learning]
-- 💬 Ask me about [Your expertise]
+- 🌱 Learning [DataStructure and Algorithm]
 
 #### Connect
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](rudtnrla20000@gmail.com)
