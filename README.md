@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](rudtnrla20000@gmail.com)
 
 #### Tech Stack
-`JavaScript` `Python` `React` `Node.js` `Git` `Java` `Spring` `Flask`
+`JavaScript` `Python` `React` `Node.js` `Git` `Java` `Spring` `Flask` `DJango`
 
 ---
 
