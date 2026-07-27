@@ -1,6 +1,12 @@
 <div align="center">
 
-<img alt="GyeongSu Kim — backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=48&lines=GyeongSu+Kim+%2F+%40trevi00;backend+engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Python;I+build+systems+that+build+systems." />
+<h1>GyeongSu&nbsp;Kim</h1>
+
+<p>
+  <code>backend engineer</code> &nbsp;·&nbsp; <code>Java</code> &nbsp;<code>Spring Boot</code> &nbsp;<code>Python</code>
+</p>
+
+<img alt="I build systems that build systems." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=I+build+systems+that+build+systems.;Spring+Boot+services+%2B+the+tooling+that+verifies+them.;Currently%3A+LLM+agent+harnesses." />
 
 <br>
 
