@@ -67,8 +67,8 @@ MCP server that makes Korean HWP / HWPX documents readable by LLM agents.
 **[`llama-code/`](https://github.com/trevi00/llama-code)** &nbsp; `TypeScript`
 CLI coding assistant driven entirely by local Llama models via Ollama — no cloud round-trip.
 
-**[`BookReview-LLM-Platform/`](https://github.com/trevi00/BookReview-LLM-Platform)** &nbsp; `Java` `Python`
-Book review and analysis platform — Spring Boot core with an LLM analysis service alongside.
+**[`BookReview-LLM-Platform/`](https://github.com/trevi00/BookReview-LLM-Platform)** &nbsp; `Java` `Python` `TypeScript`
+Smart reading platform with AI feedback — Spring Boot 3.5 backend, FastAPI LLM service, and a React Native app on MySQL + Redis.
 
 **[`claude-code-optimize/`](https://github.com/trevi00/claude-code-optimize)** &nbsp; `Shell`
 One-script environment setup for Claude Code across Windows, macOS, and Linux.
